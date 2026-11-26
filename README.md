@@ -2,6 +2,10 @@
 
 Personal portfolio project / technical case study.
 
+**Download:** [latest release](https://github.com/alexalghisi/releasenote/releases/latest)
+
+![releasenote running](docs/preview.png)
+
 Changelog desk: releases, entry kinds, audience, publish/unpublish.
 
 It is **not** a hosted commercial product. Seed data is fictional. This repository
@@ -29,7 +33,6 @@ and Logs (Mountain View).
 
 **Hiring?** Open an issue, message me on LinkedIn, or email
 [alexalghisi@gmail.com](mailto:alexalghisi@gmail.com).
-
 
 ---
 
